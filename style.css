@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Comic Neue', cursive;
+}
+#img-acceuil{
+    z-index: 900;
+}
+.acceuil{
+    background-image: url(img/photo-of-man-surfing-on-sea-waves-2959619.jpg);
+    background-position-x: center;
+    background-position-y: -300px;
+    height: 100vh;
+}
+#text-acceuil{
+    padding-top: 10%;
+}
+#img-interview{
+    height: 100%;
+    width: 100%;
+}
